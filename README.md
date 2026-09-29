@@ -102,7 +102,6 @@
       audit_coverage.py    覆盖率审计（--dir / --date / --json）
       check_trade_day.py   交易日判断（日期 / --list / --verify-holidays）
       sample_builder.py    合成样本生成（--out / --n / --date / --hit / --skip-dates）
-      publish_draft.md     发布说明草稿（可直接改写后贴出去）
       tests/run_selftest.py 一键自测（59 项断言，无需任何 TDX 数据）
 
 ---
